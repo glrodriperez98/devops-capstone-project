@@ -1,5 +1,5 @@
 ---
-name: user-story.md
+name: user-story
 about: User-Story Template
 title: ''
 labels: ''
